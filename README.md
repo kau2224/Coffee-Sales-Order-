@@ -6,6 +6,7 @@ want to know most selling coffee and also want to know about loyalty of customer
 
 ## Question 
 - want sales trend for coffees
+- Analyse monthly sales
 - want top 5 loyal customers 
 - buying behavior based on coffee size
 - find top 3 countries based on coffee sales
